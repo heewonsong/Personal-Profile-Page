@@ -18,7 +18,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #5B4C6B;;
 }
 
 /* Section Styles */
@@ -143,6 +143,7 @@ footer ul {
 }
 
 footer ul li {
+  font-size: 75%;
   display: inline-block;
 }
 
