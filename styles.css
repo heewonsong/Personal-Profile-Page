@@ -65,6 +65,7 @@ header {
 
 .experience-header {
   background: none;
+  min-height: 50px;
 }
 
 header {
